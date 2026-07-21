@@ -1,0 +1,15 @@
+build/
+moc_predefs.h
+*.o
+*.obj
+*.moc
+*.so
+*.dylib
+!libInnoMakerUSBIOLib.dylib
+*.a
+*.app
+*.user
+*.user.*
+*.pro.user
+*.pro.user.*
+.DS_Store
